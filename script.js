@@ -288,11 +288,6 @@ class App {
             }
         })
 
-
-        //using the publick interface
-
-        // workout.click();
-
     }
 
     _setLocalStorage(){
